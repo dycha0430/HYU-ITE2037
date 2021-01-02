@@ -1,0 +1,11 @@
+10
+Parasite/0/3
+The flu/3/6
+Harry Porter/6/9
+La La Land/9/12
+Frozen/12/15
+Detective Conan/15/18
+Avengers/18/21
+Ode to My Father/21/24
+Coco/3/6
+Sound of Music/6/9
